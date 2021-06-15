@@ -5,7 +5,8 @@
 
 
 ## 项目介绍
-本项目是在[文泉学堂PDF(带书签)下载原理详细讲解_python脚本实现1秒1页](https://www.52pojie.cn/thread-1108776-1-1.html)的基础上进行了修改，支持了延安大学下载。
+本项目是在[文泉学堂PDF(带书签)下载原理详细讲解_python脚本实现1秒1页](https://www.52pojie.cn/thread-1108776-1-1.html)以及[webvpn-HFUT 文泉学堂PDF下载
+](https://github.com/LaureatePoet/wqxuetang-PDF-Download-for-HFUTer)的基础上进行了修改，支持了延安大学下载。
 
 
 程序整体思路:
