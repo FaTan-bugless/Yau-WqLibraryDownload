@@ -33,9 +33,7 @@ url0 = "https://www.wqxuetang.com/#/"
 
 # 请替换url末尾的数字，例如这里的3184535，替换为目标书籍的ID
 url = "https://lib-yau.wqxuetang.com/read/pdf?bid=3184535"
-# 登陆WebVPN.hfut.edu.cn的账号密码（与信息门户一致）
-#stu_number='2017214***'
-#password='poet'
+
 cookie_dict = {}  # cookie字典，这里不用管
 # 图片路径
 _image_path = "F:\\test\\temp\\img"
